@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!usr/bin/python3.8
 import random
 number = random.randint(-10000, 10000)
 num_str = str(number)
