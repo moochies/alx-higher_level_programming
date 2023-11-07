@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#!/usr/bin/python3
 
 def inherits_from(obj, a_class):
     """checks if a class is a subclass of another"""
